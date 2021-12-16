@@ -1,5 +1,5 @@
 import React, { Children } from "react";
-import Head from "next/Head";
+import Head from "next/head";
 
 export default function layout({ title, children }) {
   return (
